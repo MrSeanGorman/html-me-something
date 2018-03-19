@@ -1,0 +1,30 @@
+header,
+main,
+footer {
+    background-color: rgb(120,120,120)
+}
+
+body {
+    width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: rgb(143, 150, 255);
+	font-size: 100%;
+}
+
+img {
+    width:400px;
+    height:400px;
+}
+
+figure {
+
+}
+.imgp {
+    float:left;
+
+}
+
+#id {
+
+}
