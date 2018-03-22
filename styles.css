@@ -1,4 +1,10 @@
-header,
+header {
+    text-align: center;
+    background-color: rgb(67, 64, 92);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 main,
 footer {
     background-color: rgb(145, 145, 145);
@@ -21,6 +27,10 @@ h2 li {
     text-align: center;
 }
 
+ol {
+    padding-left: 0px;
+  }
+
 img {
     width:400px;
     height:400px;
@@ -28,11 +38,18 @@ img {
     margin: 0 auto;
 }
 
-.imgp {
+.fig {
     margin: auto;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    
+    
 
 }
 
-#header {
-    text-align: center;
+#eccentricity {
+    width:75%;
+    height:75%;
+    display: block;
+    margin: 0 auto;
 }
